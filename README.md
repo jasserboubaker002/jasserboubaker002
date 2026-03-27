@@ -30,7 +30,7 @@ Actuellement en alternance, je cherche une opportunité pour mettre mes compéte
 
 ### 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/jasserboubaker](https://www.linkedin.com/in/jasser-boubaker-42548b213/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasser-boubaker-42548b213/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasser.boubaker@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jasserboubaker.dev)
 
